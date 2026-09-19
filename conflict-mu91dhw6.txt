@@ -1,0 +1,3 @@
+line one
+shared line
+line three
